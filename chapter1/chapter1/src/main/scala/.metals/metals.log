@@ -1,0 +1,728 @@
+2022.10.30 07:55:22 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\.metals\lsp.trace.json or C:\Users\Emmanuel_ELOUTI\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.30 07:55:23 INFO  logging to file C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\.metals\metals.log
+2022.10.30 07:55:23 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala' for client Visual Studio Code 1.72.2.
+2022.10.30 07:58:12 INFO  time: initialize in 2m49s
+2022.10.30 07:58:13 WARN  Build server is not auto-connectable.
+2022.10.30 07:58:13 WARN  no build tool detected in workspace 'C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.30 07:58:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:08 INFO  no build target found for C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.30 08:05:09 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Oct 30, 2022 8:05:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 18
+2022.10.30 08:05:09 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Oct 30, 2022 8:05:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 22
+Oct 30, 2022 8:05:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+2022.10.30 08:05:09 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:09 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:09 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+Oct 30, 2022 8:05:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 49
+2022.10.30 08:05:09 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 53
+Oct 30, 2022 8:05:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 54
+2022.10.30 08:05:09 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:10 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 75
+2022.10.30 08:05:10 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 80
+2022.10.30 08:05:10 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:10 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:10 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:10 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 91
+Oct 30, 2022 8:05:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+2022.10.30 08:05:10 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 106
+2022.10.30 08:05:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 108
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 107
+2022.10.30 08:05:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 117
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 119
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 118
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 124
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 127
+2022.10.30 08:05:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 129
+2022.10.30 08:05:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 132
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 134
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 133
+2022.10.30 08:05:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 139
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 140
+2022.10.30 08:05:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 148
+2022.10.30 08:05:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 153
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 155
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 154
+2022.10.30 08:05:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 160
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 162
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 161
+2022.10.30 08:05:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 171
+2022.10.30 08:05:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 179
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 181
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 180
+2022.10.30 08:05:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 185
+2022.10.30 08:05:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 190
+2022.10.30 08:05:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 216
+2022.10.30 08:05:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 221
+2022.10.30 08:05:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 228
+2022.10.30 08:05:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 232
+Oct 30, 2022 8:05:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 233
+2022.10.30 08:05:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 245
+2022.10.30 08:05:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 250
+2022.10.30 08:05:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 295
+2022.10.30 08:05:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 317
+2022.10.30 08:05:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 323
+Oct 30, 2022 8:05:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 327
+2022.10.30 08:05:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 353
+Oct 30, 2022 8:05:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 358
+2022.10.30 08:05:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 359
+Oct 30, 2022 8:05:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 360
+2022.10.30 08:05:14 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:14 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 368
+2022.10.30 08:05:14 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:14 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 378
+2022.10.30 08:05:14 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:14 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:14 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 388
+Oct 30, 2022 8:05:14 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 389
+2022.10.30 08:05:14 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 398
+2022.10.30 08:05:15 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:05:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 474
+Oct 30, 2022 8:05:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 416
+Oct 30, 2022 8:05:15 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 486
+2022.10.30 08:05:16 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:17 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:19 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:23 INFO  time: code lens generation in 7.12s
+2022.10.30 08:05:23 INFO  time: code lens generation in 8.3s
+2022.10.30 08:05:23 INFO  time: code lens generation in 8.33s
+2022.10.30 08:05:23 INFO  time: code lens generation in 8.41s
+2022.10.30 08:05:24 INFO  time: code lens generation in 9.02s
+2022.10.30 08:05:24 INFO  time: code lens generation in 9.02s
+2022.10.30 08:05:24 INFO  time: code lens generation in 9.08s
+2022.10.30 08:05:24 INFO  time: code lens generation in 9.08s
+2022.10.30 08:05:24 INFO  time: code lens generation in 9.19s
+2022.10.30 08:05:24 INFO  time: code lens generation in 9.19s
+2022.10.30 08:05:24 INFO  time: code lens generation in 9.32s
+2022.10.30 08:05:24 INFO  time: code lens generation in 9.53s
+2022.10.30 08:05:24 INFO  time: code lens generation in 9.58s
+2022.10.30 08:05:24 INFO  time: code lens generation in 9.53s
+2022.10.30 08:05:24 INFO  time: code lens generation in 9.61s
+2022.10.30 08:05:24 INFO  time: code lens generation in 9.92s
+2022.10.30 08:05:24 INFO  time: code lens generation in 9.94s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 11s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 12s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 13s
+2022.10.30 08:05:24 INFO  time: code lens generation in 14s
+2022.10.30 08:05:24 INFO  time: code lens generation in 14s
+2022.10.30 08:05:24 INFO  time: code lens generation in 14s
+2022.10.30 08:05:24 INFO  time: code lens generation in 14s
+2022.10.30 08:05:24 INFO  time: code lens generation in 14s
+2022.10.30 08:05:24 INFO  time: code lens generation in 14s
+2022.10.30 08:05:24 INFO  time: code lens generation in 14s
+2022.10.30 08:05:24 INFO  time: code lens generation in 14s
+2022.10.30 08:05:24 INFO  time: code lens generation in 14s
+2022.10.30 08:05:24 INFO  time: code lens generation in 14s
+2022.10.30 08:05:24 INFO  time: code lens generation in 14s
+2022.10.30 08:05:24 INFO  time: code lens generation in 14s
+2022.10.30 08:05:24 INFO  time: code lens generation in 14s
+2022.10.30 08:05:24 INFO  time: code lens generation in 15s
+2022.10.30 08:05:24 INFO  time: code lens generation in 7m10s
+2022.10.30 08:05:24 INFO  time: code lens generation in 5.67s
+2022.10.30 08:05:27 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:33 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:34 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:36 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:37 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:43 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:53 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:05:56 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:06:00 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:06:03 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:06:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:06:49 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:06:52 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:07:25 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:07:27 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:07:28 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:07:36 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:07:48 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:12:49 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:12:51 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:12:53 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:12:56 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:12:59 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:13:00 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:13:04 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:13:06 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:13:07 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:13:09 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:13:10 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:13:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:13:14 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:13:16 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:13:46 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:13:48 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:13:50 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:13:53 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:13:56 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:14:23 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:14:26 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:14:27 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:14:33 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:14:34 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:14:37 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:14:43 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:14:45 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:14:47 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:14:51 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:14:55 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:14:58 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:15:09 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:15:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:15:18 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:15:30 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:15:31 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:15:34 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:15:36 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:15:39 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:15:39 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1080
+2022.10.30 08:15:41 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:15:47 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:15:50 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:15:58 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:15:59 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:16:03 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:16:32 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:16:35 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:16:37 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:16:41 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:16:46 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:16:48 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:16:49 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:16:50 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:16:52 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:16:54 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:17:55 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:18:01 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1297
+2022.10.30 08:18:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:18:16 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:18:17 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:18:19 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:18:24 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:18:30 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:18:31 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:18:34 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:18:39 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:18:40 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:18:42 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:18:43 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:18:45 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:18:50 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:18:54 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:18:57 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:19:09 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:19:16 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:19:17 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:19:21 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:19:28 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:19:37 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:19:40 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:19:45 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:19:54 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:19:57 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:20:06 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:20:20 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:20:22 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:20:28 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:20:33 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:20:35 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:20:38 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:20:47 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:21:36 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:21:36 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1988
+2022.10.30 08:21:38 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:21:41 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:21:42 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:21:44 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:21:47 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:21:49 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:21:59 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:02 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:04 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:05 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:08 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:14 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:27 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:29 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:30 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:32 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:36 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:39 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:44 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:47 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:49 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:50 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:53 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:56 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:22:58 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:23:03 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:23:08 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:23:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:23:14 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:24:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:24:15 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:24:18 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:24:20 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:24:21 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:24:29 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:24:35 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:24:36 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:24:38 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:24:40 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:24:46 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:24:49 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:24:59 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:25:01 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:25:02 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:25:04 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:25:06 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:25:07 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:25:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:25:37 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:25:39 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:25:43 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:25:45 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:26:56 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:27:02 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:27:05 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:28:23 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:28:30 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:29:01 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:29:05 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:29:09 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:29:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:29:17 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:29:22 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:29:27 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:29:31 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:29:36 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:34:34 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:34:47 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:34:54 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:34:57 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:34:58 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:35:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:35:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:35:14 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:35:18 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:35:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2880
+2022.10.30 08:35:20 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:35:26 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:35:27 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:35:33 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:35:37 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:35:40 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:35:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2971
+2022.10.30 08:35:44 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:35:48 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:35:53 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:36:00 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:36:02 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:36:16 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:36:18 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:36:22 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:36:34 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:36:40 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:36:44 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:36:47 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:36:50 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:36:54 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:36:56 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:36:58 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:37:00 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:37:15 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:37:20 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:37:28 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:37:32 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:37:36 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:37:39 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:37:43 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:37:45 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:37:47 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:37:49 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:37:51 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:37:59 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:38:01 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:38:03 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:38:05 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:38:06 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:38:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:38:18 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:38:21 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:38:23 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:38:26 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:38:29 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:38:35 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:38:38 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:39:52 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:40:00 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:40:05 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:40:07 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:40:25 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:40:27 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:40:31 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:40:33 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:40:36 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:40:39 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:40:42 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:40:46 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:40:48 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:40:51 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:40:54 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:40:56 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:40:59 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:41:02 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:41:04 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:41:07 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:41:09 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:41:17 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:41:29 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:41:30 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:41:34 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:41:38 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:41:41 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:41:44 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:41:47 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:41:49 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:41:57 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:42:01 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:42:03 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:42:09 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:42:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:42:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3669
+2022.10.30 08:42:19 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:42:22 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:42:24 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:42:27 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3690
+2022.10.30 08:42:28 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:42:33 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:42:36 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:42:38 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:42:40 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:42:43 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:42:47 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:42:51 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:42:56 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:42:58 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:01 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:03 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:05 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:07 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:22 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:24 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:27 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:30 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:32 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:35 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:38 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:40 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:43 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:45 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:47 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:53 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:55 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:43:56 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:44:02 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:44:04 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:44:06 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:44:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3956
+2022.10.30 08:44:11 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:44:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:44:19 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:44:21 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:44:24 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:44:27 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:44:31 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:44:42 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:44:44 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:44:49 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:44:53 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:44:55 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:44:57 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:44:59 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:45:03 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:45:04 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:45:07 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:45:09 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:45:13 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:45:16 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:45:19 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:45:23 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:45:24 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:45:26 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:45:28 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:45:30 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:45:38 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+Oct 30, 2022 8:45:38 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4208
+Oct 30, 2022 8:45:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4214
+Oct 30, 2022 8:45:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4213
+Oct 30, 2022 8:45:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4215
+2022.10.30 08:45:41 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:45:44 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:47:44 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:47:45 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:47:49 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:47:52 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:47:54 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:47:57 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:48:02 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:48:04 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:48:06 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:48:18 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:48:20 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:48:23 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:48:26 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:48:30 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:48:33 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:48:36 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:48:38 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:48:44 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:48:46 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:48:50 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:48:54 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:48:56 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:49:01 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:49:05 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:49:07 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:49:15 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:49:19 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:49:22 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:49:27 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:49:30 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:49:32 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:49:37 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:49:44 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:49:47 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:49:49 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:50:47 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:50:58 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:01 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:05 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:07 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:08 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:10 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:12 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:14 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:16 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:19 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:20 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:22 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:23 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:46 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:49 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:51 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:53 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:54 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:56 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:51:58 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:52:00 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:52:02 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:52:18 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:52:19 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:52:22 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 08:57:27 INFO  shutting down Metals
