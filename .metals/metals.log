@@ -43,3 +43,24 @@ Caused by: scala.meta.internal.metals.debug.BuildTargetNotFoundForPathException:
 2022.10.30 10:20:21 INFO  shutting down Metals
 2022.10.30 10:21:40 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Emmanuel_ELOUTI\Exercices_Scala\.metals\lsp.trace.json or C:\Users\Emmanuel_ELOUTI\AppData\Local\scalameta\metals\cache\lsp.trace.json
 2022.10.30 10:21:41 INFO  logging to file C:\Users\Emmanuel_ELOUTI\Exercices_Scala\.metals\metals.log
+2022.10.30 10:21:41 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\Emmanuel_ELOUTI\Exercices_Scala' for client Visual Studio Code 1.72.2.
+2022.10.30 10:21:45 INFO  time: initialize in 3.5s
+2022.10.30 10:21:46 WARN  Build server is not auto-connectable.
+2022.10.30 10:21:46 WARN  no build tool detected in workspace 'C:\Users\Emmanuel_ELOUTI\Exercices_Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.30 10:21:46 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 10:21:52 INFO  no build target found for C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.30 10:21:57 INFO  time: code lens generation in 7.56s
+Oct 30, 2022 10:27:18 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.10.30 11:30:22 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Emmanuel_ELOUTI\Exercices_Scala\.metals\lsp.trace.json or C:\Users\Emmanuel_ELOUTI\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.30 11:30:25 INFO  logging to file C:\Users\Emmanuel_ELOUTI\Exercices_Scala\.metals\metals.log
+2022.10.30 11:30:25 INFO  Started: Metals version 0.11.9 in workspace 'C:\Users\Emmanuel_ELOUTI\Exercices_Scala' for client Visual Studio Code 1.72.2.
+2022.10.30 11:30:33 INFO  time: initialize in 8.43s
+2022.10.30 11:30:34 WARN  Build server is not auto-connectable.
+2022.10.30 11:30:34 WARN  no build tool detected in workspace 'C:\Users\Emmanuel_ELOUTI\Exercices_Scala'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.10.30 11:30:34 WARN  no build target for: C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala
+2022.10.30 11:30:41 INFO  no build target found for C:\Users\Emmanuel_ELOUTI\Exercices_Scala\chapter1\chapter1\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.2.0
+2022.10.30 11:30:47 INFO  time: code lens generation in 9.5s
+2022.10.30 11:44:16 INFO  shutting down Metals
+2022.10.30 13:06:17 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\Emmanuel_ELOUTI\Exercices_Scala\.metals\lsp.trace.json or C:\Users\Emmanuel_ELOUTI\AppData\Local\scalameta\metals\cache\lsp.trace.json
+2022.10.30 13:06:18 INFO  logging to file C:\Users\Emmanuel_ELOUTI\Exercices_Scala\.metals\metals.log
